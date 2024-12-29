@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Club head -->
+        <path d="M20,70 L40,70 C45,70 48,65 48,60 L48,55 C48,50 45,45 40,45 L20,45 C15,45 12,50 12,55 L12,60 C12,65 15,70 20,70 Z" 
+              fill="#FFFFFF"/>
+        
+        <!-- Club shaft -->
+        <path d="M35,48 L60,15 C62,12 65,10 68,10 L75,10" 
+              stroke="#FFFFFF" 
+              stroke-width="4" 
+              stroke-linecap="round"/>
+        
+        <!-- Club grip -->
+        <path d="M60,15 L70,8" 
+              stroke="#FFFFFF" 
+              stroke-width="6" 
+              stroke-linecap="round"/>
+    </g>
+</svg>
