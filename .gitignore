@@ -5,6 +5,9 @@ server/node_modules
 /.pnp
 .pnp.js
 
+# License file
+LICENSE
+
 # Environment variables
 */.env
 client/.env
